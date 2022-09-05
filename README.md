@@ -41,14 +41,20 @@
 </div>  
   
 
-<br/> 
+<br/>
+
+<div align="center">
+
+## My Skills
+
+</div>
 
 <table>
 <tr><td colspan="2">
 
 <div align="center">
 
-### Skills Frontend  
+### Frontend  
 
 </div>
 
