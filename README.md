@@ -125,7 +125,7 @@
 
 <div align="center">
 
-# Stats
+# GitHub Stats
 
 </div>
 
