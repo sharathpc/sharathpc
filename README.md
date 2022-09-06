@@ -38,16 +38,19 @@ I'm a passionate Full Stack Web And App Developer. I love exploring new technolo
 - ⚡ My portfolio - https://sharathpc.github.io 
   
 
+
 <br/>
+
+
 
 ## 🚀 Languages and Tools:
 
 <table>
-<tr><td colspan="2">
-
+<tr>
+<td colspan="2">
 <div align="center">
 
-### Frontend  
+### Frontend 
 
 </div>
 
@@ -71,15 +74,16 @@ I'm a passionate Full Stack Web And App Developer. I love exploring new technolo
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
-</td></tr>
-<tr><td valign="top" width="50%">
-
+</td>
+</tr>
+  
+<tr>
+<td valign="top" width="50%">
 <div align="center">
 
 ### Backend  
 
 </div>
-
 
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -97,12 +101,12 @@ I'm a passionate Full Stack Web And App Developer. I love exploring new technolo
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
-
-
+</td>
+<td valign="top" width="50%">
 <div align="center">
 
-### DevOps  
+### DevOps
+
 </div>
 
 <div align="center">  
@@ -118,42 +122,68 @@ I'm a passionate Full Stack Web And App Developer. I love exploring new technolo
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/> 
-
-<div align="center">
-
-# GitHub Stats
-
-</div>
-
-<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharathpc&show_icons=true&locale=en&layout=compact" alt="sharathpc" /></p></div>
-
-<br/>   
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sharathpc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathpc&" alt="sharathpc" /></p></div>
+</td>
+</tr>
+</table>
 
 <br/>
 
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathpc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div> 
+
+
+
+<br/> 
+
+
+
+## ✨ GitHub Stats 
+
+<div align="center">
+
+![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharathpc&show_icons=true&theme=tokyonight)
+
+</div>  
+
+<br/>  
+
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharathpc&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+[![Sharath's github activity graph](https://activity-graph.herokuapp.com/graph?username=sharathpc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<br/>
+
+
+
 ## 🤝 Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/sharathpc">
     <img src="https://komarev.com/ghpvc/?username=sharathpc">
 </a>
-<a href="https://github.com/mittalsam98?tab=followers">
+<a href="https://github.com/sharathpc">
   <img src="https://img.shields.io/github/followers/sharathpc?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
 
+
 <br/>
+
 
 
 ## ❤️ Support
 Liked some of my work? Buy me a coffee
 
-<p><a href="https://www.buymeacoffee.com/sharathpc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharathpc" /></a></p>
+<a href="https://www.buymeacoffee.com/sharathpc"> 
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharathpc" />
+</a>
