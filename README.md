@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ik.imagekit.io/biva/github-profile/banner_woda-jZnu.gif" align="center" style="width: 100%" />
+  <img src="https://ik.imagekit.io/sharathpc/protfolio/github/banner_IHMyYVIEg.gif" align="center" style="width: 100%" />
 </div>
 
 
@@ -7,44 +7,40 @@
 <br/>
   
 
-<div align="center">
 
-## Hi 👋, I'm Sharath Chandra
+### <h1 align="center">Hi <img src="https://ik.imagekit.io/sharathpc/protfolio/github/wave_Aw3xXukxP.gif" width="30px">, I'm Sharath Chandra</h1>
 
-</div>
-
-<div align="center">A passionate Full-Stack 👨‍💻 developer</div>  
-  
-
-<br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=sharathpc&&style=flat-square" align="center" />
-</div>
+  <a href="https://github.com/sharathpc" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/sharathpc" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://medium.com/sharathpc" target="_blank">
+    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+  </a>  
+</div> 
 
-<br/>  
-  
 
-<div align="center">
-<a href="https://github.com/sharathpc" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sharathpc" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/sharathpc" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+<br/>
+
+
+
+## 🙋‍♂️ About Me
+
+I'm a passionate Full Stack Web And App Developer. I love exploring new technologies and industry standards/best-practices. I like learning and working on backend stack and as well as DevOps.
+
+- 📫 How to reach me **sharathchandra0033@gmail.com**
+
+- ⚡ My portfolio - https://sharathpc.github.io 
   
 
 <br/>
 
-<div align="center">
-
-## My Skills
-
-</div>
+## 🚀 Languages and Tools:
 
 <table>
 <tr><td colspan="2">
@@ -144,5 +140,20 @@
 
 <br/>
 
-<div align="center">
-<p><a href="https://www.buymeacoffee.com/sharathpc"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharathpc" /></a></p></div>
+## 🤝 Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sharathpc">
+</a>
+<a href="https://github.com/mittalsam98?tab=followers">
+  <img src="https://img.shields.io/github/followers/sharathpc?label=Followers&style=social" alt="GitHub Badge">
+</a>
+
+
+<br/>
+
+
+## ❤️ Support
+Liked some of my work? Buy me a coffee
+
+<p><a href="https://www.buymeacoffee.com/sharathpc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharathpc" /></a></p>
