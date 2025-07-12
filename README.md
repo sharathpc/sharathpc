@@ -50,7 +50,7 @@ I'm a passionate Full Stack Web And App Developer. I love exploring new technolo
 
 ## 🚀 Languages and Tools:
 
-<table>
+<table style="width: '100%'">
 <tr>
 <td colspan="2">
 <div align="center">
@@ -155,13 +155,13 @@ I'm a passionate Full Stack Web And App Developer. I love exploring new technolo
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharathpc&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharathpc&theme=react)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
 
-[![Sharath's github activity graph](https://activity-graph.herokuapp.com/graph?username=sharathpc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sharathpc&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -178,15 +178,3 @@ I'm a passionate Full Stack Web And App Developer. I love exploring new technolo
   <img src="https://img.shields.io/github/followers/sharathpc?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
-
-
-<br/>
-
-
-
-## ❤️ Support
-Liked some of my work? Buy me a coffee
-
-<a href="https://www.buymeacoffee.com/sharathpc"> 
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharathpc" />
-</a>
