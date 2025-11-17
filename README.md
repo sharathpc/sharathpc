@@ -11,7 +11,7 @@
 ### <h1 align="center">Hi <img src="https://ik.imagekit.io/sharathpc/protfolio/github/wave_Aw3xXukxP.gif" width="30px">, I'm Sharath Chandra</h1>
 
 <div align="center">
-  <img src="https://ik.imagekit.io/sharathpc/protfolio/github/profile_e1_fdUfl_.gif" align="center" style="width: 100%" />
+  <img src="https://ik.imagekit.io/sharathpc/protfolio/github/profile_e1_fdUfl_.gif" align="center" style="width: 300px" />
 </div>
 
 <br/>
