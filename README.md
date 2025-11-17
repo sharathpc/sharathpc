@@ -56,7 +56,7 @@ With excellent communication and collaboration skills, I work closely with cross
 
 <table style="width: '100%'">
 <tr>
-<td colspan="2">
+<td valign="top" width="33%">
 <div align="center">
 
 ### Frontend 
@@ -87,10 +87,8 @@ With excellent communication and collaboration skills, I work closely with cross
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 </div>
 </td>
-</tr>
-  
-<tr>
-<td valign="top" width="50%">
+
+<td valign="top" width="33%">
 <div align="center">
 
 ### Backend  
@@ -118,7 +116,7 @@ With excellent communication and collaboration skills, I work closely with cross
 </div>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 <div align="center">
 
 ### DevOps
@@ -168,13 +166,13 @@ With excellent communication and collaboration skills, I work closely with cross
 
 </div>  
 
-<br/>  
+<!-- <br/>  
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharathpc&theme=react)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 <br/>
 
