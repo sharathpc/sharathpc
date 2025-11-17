@@ -36,11 +36,15 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web And App Developer. I love exploring new technologies/best-practices and working on backend stack as well as DevOps.
+I am a Full-Stack Software Engineer with 10+ years of experience architecting, developing, and delivering high-performance web and mobile applications. My expertise spans micro-frontend and micro-services architectures, CI/CD automation, and cloud-native integrations, enabling teams to ship scalable, secure, and maintainable products with confidence.
+
+I have a strong track record of enhancing application performance, improving system scalability, and establishing reusable, standards driven code practices. I’m passionate about building efficient engineering workflows leveraging automation, technical governance, and modern development methodologies to streamline delivery and reduce operational overhead.
+
+With excellent communication and collaboration skills, I work closely with cross-functional stakeholders to analyse requirements, translate them into actionable features, and ensure continuous feedback throughout the SDLC. I thrive in dynamic environments where innovation, quality, and user experience are top priorities.
 
 - ⚡ My portfolio - https://sharathpc.github.io
 
-- 📫 How to reach me **sharathchandra0033@gmail.com**
+- 📫 How to reach me **pyarasani.sharath94@gmail.com**
   
 
 
